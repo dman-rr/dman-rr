@@ -19,8 +19,7 @@ This GitHub is where I **document my journey, mods, and experiments** with 3D pr
 🖨 **Motion System:** ✅ Installed  
 🔬 **Electronics & Wiring:** 🔄 In Progress  
 ⚙ **Firmware:** 🔄 Klipper Configuration  
-🌀 **Extruder:** ⏳ Galileo 2  Coming soon
-⚡ **Speed Benchmarks:** ⏳ Coming soon!  
+🌀 **Extruder:** ⏳ Galileo 2 Coming soon!
 
 ### 🏗 Build Progress Checklist
 - [x] **Frame Assembly** ✅ *(LDO Kit)*
